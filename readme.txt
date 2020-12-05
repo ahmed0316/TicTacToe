@@ -5,6 +5,4 @@ To run:
 2) Unzip
 3) Run Jar file.
 
-Alternatively, you can view a demonstration in 'Video.mp4'.
-
 By Ahmed Mohamed
